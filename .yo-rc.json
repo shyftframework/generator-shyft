@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "John V Runion",
+      "authorEmail": "john@shyftnow.com",
+      "authorUrl": "https://www.shyftnow.com"
+    }
+  }
+}
